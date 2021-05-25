@@ -14,7 +14,10 @@ body{
 }
 .logo{
 	margin-right: 63%;
+	position: relative;
 	padding: 40px 0;
+	padding-left: 44px;
+	font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
 }
 .header{
 	display: flex;
