@@ -27,11 +27,17 @@ body{
 	display: flex; 
 	align-items: center;
 }
-.menu__item {
-	padding: 0 13px;
+
+.menu__item{
+	position:relative;
+	margin-right: 26px;
+	font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+	color: #000;
+	text-decoration: none;
+	transition: opacity .5s;
 }
 .menu__item:last-child { 
-	padding-right: 0;
+	margin-right: 0px;
 }
 .logo__circle{
 	width: 28px;
