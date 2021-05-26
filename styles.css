@@ -71,7 +71,6 @@ body{
 	opacity: 0.7; 
 	color: #000; 
 }
-<<<<<<< HEAD
 .menu__item_active:hover:after, .menu__item_active:after{
 	opacity: 1;
 }
@@ -126,8 +125,6 @@ body{
 	opacity: 0.7; 
 	color: #000; 
 }
-=======
->>>>>>> b77130db1d311e39b94ad28fc8ca6bdfcf151765
 .menu__item_active:hover:after, .menu__item_active:after{
 	opacity: 1;
 }
