@@ -114,7 +114,6 @@ body{
 }
 .main-section__button:hover{
 	opacity: .5;
-=======
 }
 
 .menu__item_active:after{
@@ -136,5 +135,4 @@ body{
 
 .menu__item_active:hover:after, .menu__item_active:after{
 	opacity: 1;
->>>>>>> b4c993e62cf24808a12c4ed71d99b79ca3b4f62f
 }
