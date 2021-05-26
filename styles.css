@@ -126,8 +126,7 @@ body{
 	opacity: 0.7; 
 	color: #000; 
 }
-=======
->>>>>>> b77130db1d311e39b94ad28fc8ca6bdfcf151765
+
 .menu__item_active:hover:after, .menu__item_active:after{
 	opacity: 1;
 }
@@ -138,7 +137,7 @@ body{
 }
 .main-section{
 	padding: 0 63% 100px 0;
-	background: top right no-repeat url(img/mainImg-min.svg);
+	background: top right no-repeat url(mainImg-min.svg);
 }
 .main-section__subtitle{
 	margin: 0 0 41px 0;
