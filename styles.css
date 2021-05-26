@@ -112,7 +112,6 @@ body{
 .main-section__button:hover{
 	opacity: .5;
 }
-
 .menu__item_active:after{
 	position: absolute;
 	display: block;
