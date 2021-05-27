@@ -14,7 +14,7 @@ body{
 	position: relative;
 	padding: 40px 0;
 	padding-left: 44px;
-	font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+	font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 }
 .header{
 	display: flex;
@@ -77,7 +77,7 @@ body{
 }
 .main-section__title{
 	margin: 0 0 40px 0;
-	font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+	font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 	color: #000;
 }
 .main-section{
@@ -94,7 +94,7 @@ body{
 }
 .main-section__title-text__highlight{
 	background: #ECF3FF;
-	font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+	font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 	color: #000;
 }
 .main-section__button{
@@ -126,14 +126,12 @@ body{
 	opacity: 0.7; 
 	color: #000; 
 }
-=======
->>>>>>> b77130db1d311e39b94ad28fc8ca6bdfcf151765
 .menu__item_active:hover:after, .menu__item_active:after{
 	opacity: 1;
 }
 .main-section__title{
 	margin: 0 0 40px 0;
-	font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+	font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 	color: #000;
 }
 .main-section{
@@ -150,7 +148,7 @@ body{
 }
 .main-section__title-text__highlight{
 	background: #ECF3FF;
-	font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+	font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
 	color: #000;
 }
 .main-section__button{
