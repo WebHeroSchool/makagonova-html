@@ -84,8 +84,13 @@ body{
 	color: #000;
 }
 .main-section{
+<<<<<<< HEAD
 	padding: 0 63% 200px 0;
 	background: top right no-repeat url(picture.svg);
+=======
+	padding: 0 63% 100px 0;
+	background: top right no-repeat url(pic.svg);
+>>>>>>> 86a8057b4dd562e4c287b15b4cccd22fadb3d17e
 }
 .main-section__subtitle{
 	margin: 0 0 41px 0;
