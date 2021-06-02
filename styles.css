@@ -76,12 +76,12 @@ body{
 }
 
 .main-section__title{
-	margin: 0 0 40px 0;
+	margin: 86px 0 40px 0;
 	font: bold 66px/85px pt_serifbold, arial, helvetica, sans-serif;
 	color: #000;
 }
 .main-section{
-	padding: 0 63% 200px 0;
+	padding: 20px 63% 200px 0;
 	background: top right no-repeat url(picture.svg);
 }
 .main-section__subtitle{
@@ -109,3 +109,4 @@ body{
 	border-radius: 4px;
 	transition: .5s;
 }
+
